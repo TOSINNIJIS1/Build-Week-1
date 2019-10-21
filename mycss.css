@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container {
+	width: 800px;
+	margin: 0 auto;
+	border: 2px grey dashed;
+}
+
+.How {
+	background: #C4C4C4;
+	padding: 20px;
+	text-align: center;
+	font-family: Roboto;
+	font-weight: bold;
+	font-size: 28px;
+	letter-spacing: 0.01em;
+}
+
+.top-content {
+	display: flex;
+
+}
+
+h2 {
+	font-size: 18px;
+	text-align: center;
+}
+
+.bottom {
+	text-align: center;
+	
+}
+
+.bottom h5 {
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.bottom a {
+	padding: 12px;
+	text-decoration: none;
+}
+
+.create {
+	display: inline-block;
+	padding: 10px;
+	background: #45933E;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 4px;
+	padding-bottom: 10px;
+}
+
+.created {
+	padding: 20px;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.signIn {
+	color: white;
+	background: #865E22;
+	margin: 10px;
+	border-radius: 4px;
+	display: inline-flex;
+	justify-content: space-around;
+}
+
+footer {
+	display: flex;
+	justify-content: space-evenly;
+	background: #C4C4C4;
+	padding: 10px;
+}
+
+
+
+/*
+nav {
+	display: flex;
+	background: green;
+	
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	
+}
+
+.login {
+	display: flex;
+	justify-content: flex-end;
+}
+
+
+
+.how {
+	display: flex;
+	font-family: Zhi Mang Xing; 
+	font-size: 36px;
+	padding: 0px 2%;
+	
+}*/
+
