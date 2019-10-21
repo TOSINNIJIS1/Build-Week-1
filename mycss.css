@@ -2,7 +2,7 @@
 /* CSS Document */
 
 .container {
-	width: 800px;
+/*	width: 800px;*/
 	margin: 0 auto;
 	border: 2px grey dashed;
 }
@@ -19,7 +19,11 @@
 
 .top-content {
 	display: flex;
+}
 
+.text-content p {
+	margin-bottom: 17%;
+	width: 700px;
 }
 
 h2 {
@@ -68,38 +72,12 @@ h2 {
 
 footer {
 	display: flex;
-	justify-content: space-evenly;
-	background: #C4C4C4;
-	padding: 10px;
-}
-
-
-
-/*
-nav {
-	display: flex;
-	background: green;
-	
-}
-
-a {
-	color: white;
-	text-decoration: none;
-	
-}
-
-.login {
-	display: flex;
 	justify-content: flex-end;
+	background: #C4C4C4;
+	border: 2px dashed;
+	letter-spacing: 10px;
 }
 
+footer p{
 
-
-.how {
-	display: flex;
-	font-family: Zhi Mang Xing; 
-	font-size: 36px;
-	padding: 0px 2%;
-	
-}*/
-
+}
